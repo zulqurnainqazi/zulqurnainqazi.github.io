@@ -23,7 +23,7 @@ repository               : "zulqurnainqazi/zulqurnainqazi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "qazi-photo.jpg"
   name             : "Muhammad Zulqurnain Ul Haq Qazi"
   pronouns         : # example: "she/her"  
   bio              : "Fulbright Ph.D. candidate in Education Policy · International student mobility, policy analysis & youth research"
@@ -145,7 +145,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : og-image.png   # Social media default site image (lives in /images/)
+og_image                 : qazi-photo.jpg   # Social media default site image (lives in /images/)
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
