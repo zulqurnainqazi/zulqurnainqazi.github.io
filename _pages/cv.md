@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Add your CV as files/cv.pdf, then replace this line with: [Download my full CV (PDF)](/files/cv.pdf) -->
+[Download my full CV (PDF)](/files/cv.pdf)
 
 Education
 ======
