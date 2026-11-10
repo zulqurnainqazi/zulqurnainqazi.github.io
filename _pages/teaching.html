@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>I have taught and designed undergraduate courses in public policy, education planning, social theory, and South Asian studies in Pakistan, and taught at The Ohio State University. I design learning around inquiry — helping students ask good questions, work with evidence, and connect ideas to public life. Through the Youth Center for Research, I also mentor young people conducting their first research projects.</p>
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

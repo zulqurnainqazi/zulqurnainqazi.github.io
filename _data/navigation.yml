@@ -1,0 +1,19 @@
+# Order of the links in the site header. Remove a block to hide that page.
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: /cv/
